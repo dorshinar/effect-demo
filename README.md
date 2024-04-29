@@ -1,15 +1,5 @@
-# effect-notey
+# Effect Demo
 
-To install dependencies:
+This is my small attempt to learn [Effect](https://effect.website/). It's definitely not idiomatic and I'm sure smarter people can find better ways to do this.
 
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.1.2. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+Am I convinced that Effect is the future of ts? no.
